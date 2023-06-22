@@ -3,7 +3,7 @@ Argo list of PI names, to populate netCDF variable PI_NAME.
 
 This vocabulary is available from the NERC Vocabulary Server (NVS) VocPrez site http://vocab.nerc.ac.uk/:
 
-* [R18 collection](http://vocab.nerc.ac.uk/collection/R40/current/)
+* [R40 collection](http://vocab.nerc.ac.uk/collection/R40/current/)
 
 * [R40 VocPrez search result](https://vocab.nerc.ac.uk/search_nvs/R40/)
 
